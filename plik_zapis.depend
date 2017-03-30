@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1434905736 source:c:\users\ryszard\desktop\programy\c++\experymenty\pliki zapis\plik_zapis\main.cpp
+	<iostream>
+	<windows.h>
+
+1490654620 source:d:\programs\c++\experymenty\pliki zapis\plik_zapis\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<process.h>
+	"programy.h"
+
+1462567853 source:d:\programs\c++\experymenty\pliki zapis\plik_zapis\menu.rc
+
+1490654717 d:\programs\c++\experymenty\pliki zapis\plik_zapis\programy.h
+

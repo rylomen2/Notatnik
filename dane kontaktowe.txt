@@ -1,0 +1,4 @@
+Imie : Ryszard
+Nazwisko : Szczêch
+Wiek : 23 LAt
+Adres : Niemce ul. Lubleska 246/213

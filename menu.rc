@@ -1,0 +1,28 @@
+201    MENU
+{
+    POPUP   "Plik"
+    {
+        MENUITEM "Zapisz\tCtrl+S", 202
+        MENUITEM "Otworz\tCtrl+O", 203
+        MENUITEM "Zamknij\tEsc", 204
+    }
+
+    POPUP   "Format"
+    {
+        MENUITEM "Czcionka", 205
+    }
+
+    POPUP   "Edycja"
+    {
+        MENUITEM "Znajdz ...\tCtrl+F", 207
+    }
+
+}
+
+100 ACCELERATORS
+{
+    "S", 202,CONTROL, VIRTKEY
+    "O", 203,CONTROL, VIRTKEY
+    "F", 207,CONTROL, VIRTKEY
+    "A", 208,CONTROL, VIRTKEY
+}
